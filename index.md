@@ -1,6 +1,6 @@
 # TextRealm
 
-## Table of contents
+## Table of Contents
 * Overview
 
 ## Overview 
