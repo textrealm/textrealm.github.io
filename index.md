@@ -12,7 +12,7 @@ contacting the seller, or they can set up offers for textbooks that they plan to
 
 We plan to implement the following items:
 
-* A landing page
+* A landing page that asks the user to sign-up or login
 * A rating system that allows buyers and sellers to rate each other based on their experience
 * A profile page that lists the textbooks that the user is selling
   * Includes user's name, a description, a way for other users to contact them, and profile picture
