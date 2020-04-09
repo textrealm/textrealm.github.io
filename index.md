@@ -1,3 +1,9 @@
+## Team: 
+* Chan Ung Jeong
+* Sang Nguyen
+* Sola Takahashi
+* Sophia Elize Cruz
+
 ## Table of Contents
 * Overview
 
