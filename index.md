@@ -45,7 +45,7 @@ If the buyer/seller does not have account, they can register for the site here.
 
 <img class="ui medium floated rounded image" src="/mockups/RegisterPage.png" length="800" width="1000">
 
-# Adding a Textbook
+# Selling a Textbook
 
 The user enters the required information to upload a textbook that they plan to sell. 
 
