@@ -31,25 +31,25 @@ As of now, these are our current mockups.
 
 The page that the user sees when they open up the application.
 
-<img class="ui medium floated rounded image" src="/images/LandingPage.png" length="800" width="1000">
+<img class="ui medium floated rounded image" src="/mockups/LandingPage.png" length="800" width="1000">
 
 # Login Page
 
 The user can login to the site via this page.
 
-<img class="ui medium floated rounded image" src="/images/LoginPage.png" length="800" width="1000">
+<img class="ui medium floated rounded image" src="/mockups/LoginPage.png" length="800" width="1000">
 
 # Register Page
 
 If the buyer/seller does not have account, they can register for the site here.
 
-<img class="ui medium floated rounded image" src="/images/RegisterPage.png" length="800" width="1000">
+<img class="ui medium floated rounded image" src="/mockups/RegisterPage.png" length="800" width="1000">
 
 # Adding a Textbook
 
 The user enters the required information to upload a textbook that they plan to sell. 
 
-<img class="ui medium floated rounded image" src="/images/AddTextbook.png" length="800" width="1000">
+<img class="ui medium floated rounded image" src="/mockups/AddTextbook.png" length="800" width="1000">
 
 
 
