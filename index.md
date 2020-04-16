@@ -29,6 +29,17 @@ and any other information related to the textbook
 * A wishlist/favorites page that allows users to save textbooks and access them at a later time
 * Admin role, which will allow them to ban users for inappropriate behavior
 
+
+## Project Development History:
+### M1
+- Copied application template
+- Created TextRealm logo
+- Implemented About/FAQ page
+- Designed database
+- Implemented Landing Page
+- Deployed to Galaxy
+- Finished Mockups
+
 ## Mockups
 
 As of now, these are our current mockups.
