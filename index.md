@@ -65,7 +65,7 @@ You can find our landing page [here](http://textrealm.meteorapp.com/#/).
 - Implement the Registration/Login page
 - 'Not found' page, and loading components
 
-# Mockups
+## Mockups
 
 As of now, these are our current mockups.
 
