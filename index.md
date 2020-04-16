@@ -1,3 +1,7 @@
+## The site:
+
+http://textrealm.meteorapp.com/#/
+
 ## Team: 
 * Chan Ung Jeong
 * Sang Nguyen
