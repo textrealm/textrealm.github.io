@@ -65,36 +65,37 @@ You can find our landing page [here](http://textrealm.meteorapp.com/#/).
 - Implement the Registration/Login page
 - 'Not found' page, and loading components
 
-## Mockups
+# Mockups
 
 As of now, these are our current mockups.
 
-# Landing Page 
+## Landing Page 
 
 The page that the user sees when they open up the application.
 
 <img class="ui medium floated rounded image" src="/mockups/LandingPage.png" length="800" width="1000">
 
-# Login Page
+## Login Page
 
 The user can login to the site via this page.
 
 <img class="ui medium floated rounded image" src="/mockups/LoginPage.png" length="800" width="1000">
 
-# Register Page
+## Register Page
 
 If the buyer/seller does not have account, they can register for the site here.
 
 <img class="ui medium floated rounded image" src="/mockups/RegisterPage.png" length="800" width="1000">
 
-# Selling a Textbook
+
+## Selling a Textbook
 
 The user enters the required information to upload a textbook that they plan to sell. 
 
 <img class="ui medium floated rounded image" src="/mockups/AddTextbook.png" length="800" width="1000">
 
 
-# Profile Page
+## Profile Page
 
 Includes the user's name, rating, a profile picture, their email, as well as the textbooks that they are currently selling.
 
