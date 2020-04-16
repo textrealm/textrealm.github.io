@@ -31,7 +31,7 @@ and any other information related to the textbook
 
 
 ## Project Development History:
-### M1
+### [Milestone 1:](https://github.com/textrealm/text-realm/projects/2)
 - Copied application template
 - Created TextRealm logo
 - Implemented About/FAQ page
