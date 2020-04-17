@@ -1,3 +1,5 @@
+Buying and selling textbooks, made easy.
+
 ## The site:
 
 http://textrealm.meteorapp.com/#/
