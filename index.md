@@ -8,7 +8,7 @@ http://textrealm.meteorapp.com/#/
 * Chan Ung Jeong
 * Sang Nguyen
 * Sola Takahashi
-* Sophia Elize Cruz
+* [Sophia Elize Cruz](https://sophiaelizecruz.github.io/)
 
 ## Table of Contents
 * [Overview](#overview)
