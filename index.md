@@ -2,7 +2,7 @@ Buying and selling textbooks, made easy.
 
 ## The site:
 
-http://textrealm.meteorapp.com/#/
+[http://textrealm.meteorapp.com/#/](http://textrealm.meteorapp.com/#/)
 
 ## Team: 
 * Chan Ung Jeong
