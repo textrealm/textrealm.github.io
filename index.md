@@ -6,7 +6,7 @@ http://textrealm.meteorapp.com/#/
 
 ## Team: 
 * Chan Ung Jeong
-* Sang Nguyen
+* [Sang Nguyen](https://sanngu68.github.io/)
 * Sola Takahashi
 * [Sophia Elize Cruz](https://sophiaelizecruz.github.io/)
 
