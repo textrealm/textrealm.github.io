@@ -75,7 +75,7 @@ You can find our landing page [here](http://textrealm.meteorapp.com/#/).
 
 The user can register an account.
 
-<img class="ui medium floated rounded image" src="/progress-shots/Register.png" length="800" width="1000">
+<img class="ui medium floated rounded image" src="/progress-shots/RegisterPage.png" length="800" width="1000">
 
 ### Login Page
 
