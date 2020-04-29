@@ -47,6 +47,26 @@ We plan to make this application using:
 * [Semantic UI React](https://react.semantic-ui.com/) CSS Framework for UI design.
 * [Uniforms](https://uniforms.tools/) for React and Semantic UI-based form design and display.
 
+## Developer Guide
+This section provides information of interest to Meteor developers wishing to use this code base as a basis for their own development tasks.
+
+### Installation
+
+First, install Meteor.
+
+Second, visit the TextRealm application GitHub page and click the “Use this template” button to create your own repository 
+initialized with a copy of this application. Alternatively, you can download the sources as a zip file or make a fork of the 
+repo. Then, download a copy of the repo to your local computer.
+
+Third, cd into the text-realm/app directory and install libraries with:
+
+```$ meteor npm install```
+
+Fourth, run the system with:
+
+```$ meteor npm run start```
+
+If it all goes well, the application will appear at [http://localhost:3000](http://localhost:3000).
 
 ## Project Development History:
 ### [Milestone 1:](https://github.com/textrealm/text-realm/projects/2)
