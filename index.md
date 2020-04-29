@@ -64,12 +64,36 @@ You can find our landing page [here](http://textrealm.meteorapp.com/#/).
 
 ### [Milestone 2:](https://github.com/textrealm/text-realm/projects/3)
 
-- Implement the Admin Page
+- Start and Design the Admin Page
 - Implement the Add/Sell a Textbook page, and the page to edit entries
-- Finish rating system
-- Implement User profile page
-- Implement the Registration/Login page
+- Start rating system
+- Start User profile page
+- Finish the Registration/Login page
 - 'Not found' page, and loading components
+
+### Register Page
+
+The user can register an account.
+
+<img class="ui medium floated rounded image" src="/progress-shots/Register.png" length="800" width="1000">
+
+### Login Page
+
+Returning users can login to the system by inputting their email and password.
+
+<img class="ui medium floated rounded image" src="/progress-shots/Login.png" length="800" width="1000">
+
+### Edit Profile
+
+The user can edit their profile when they are registered.
+
+<img class="ui medium floated rounded image" src="/progress-shots/EditProfile.png" length="800" width="1000">
+
+### Sell A Textbook
+
+The registered user must fill in the fields for a textbook that they plan on selling.
+
+<img class="ui medium floated rounded image" src="/progress-shots/SellATextbook.png" length="800" width="1000">
 
 ## Mockups
 
