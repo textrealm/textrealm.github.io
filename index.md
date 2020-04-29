@@ -2,12 +2,12 @@ Buying and selling textbooks, made easy.
 
 ## The site:
 
-[http://textrealm.meteorapp.com/#/](http://textrealm.meteorapp.com/#/)
+[http://textrealm.methttps://soratsky.github.io/)eorapp.com/#/](http://textrealm.meteorapp.com/#/)
 
 ## Team: 
-* Chan Ung Jeong
+* [Chan Ung Jeong](https://chan-jeong98.github.io/)
 * [Sang Nguyen](https://sanngu68.github.io/)
-* Sola Takahashi
+* [Sola Takahashi](https://soratsky.github.io/)
 * [Sophia Elize Cruz](https://sophiaelizecruz.github.io/)
 
 ## Table of Contents
@@ -46,6 +46,42 @@ We plan to make this application using:
 * [React](https://reactjs.org/) for component-based UI implementation and routing.
 * [Semantic UI React](https://react.semantic-ui.com/) CSS Framework for UI design.
 * [Uniforms](https://uniforms.tools/) for React and Semantic UI-based form design and display.
+
+## User Guide
+
+This section provides a walkthrough of the TextRealm user interface and its capabilities so far.
+
+### Landing Page
+
+You can find our landing page [here](http://textrealm.meteorapp.com/#/).
+The landing page is presented to users when they visit the top-level URL to the site.
+<img class="ui medium floated rounded image" src="/progress-shots/LandingPageFinal.png" length="800" width="1000">
+
+### Register Page
+
+The user can register an account if they are not already registered by clicking the 'Sign Up' option in the Nav Bar.
+
+<img class="ui medium floated rounded image" src="/progress-shots/RegisterPage.png" length="800" width="1000">
+
+### Login Page
+
+Returning users can login to the system by clicking on the 'Login' option in the Nav Bar, and inputting their email and 
+password.
+
+<img class="ui medium floated rounded image" src="/progress-shots/Login.png" length="800" width="1000">
+
+### Edit Profile
+
+Once you are logged in, you can edit/update your personal.
+
+<img class="ui medium floated rounded image" src="/progress-shots/EditProfile.png" length="800" width="1000">
+
+### Sell A Textbook
+
+Once you are logged in, if you are selling a textbook, you must click on the 'Sell A Textbook' option in the Nav Bar, and you 
+must fill in the fields for a textbook that you plan on selling. 
+
+<img class="ui medium floated rounded image" src="/progress-shots/SellATextbook.png" length="800" width="1000">
 
 ## Developer Guide
 This section provides information of interest to Meteor developers wishing to use this code base as a basis for their own development tasks.
