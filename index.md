@@ -15,6 +15,7 @@ Buying and selling textbooks, made easy.
 * [Project Development History](#project-development-history)
   * [Milestone 1](#milestone-1)
   * [Milestone 2](#milestone-2)
+  * [Milestone 3](#milestone-3)
 * [Mockups](#mockups)
 
 ## Overview 
@@ -94,6 +95,15 @@ The user can edit their profile when they are registered.
 The registered user must fill in the fields for a textbook that they plan on selling.
 
 <img class="ui medium floated rounded image" src="/progress-shots/SellATextbook.png" length="800" width="1000">
+
+### [Milestone 3:](https://github.com/textrealm/text-realm/projects/4)
+
+* Finish search
+* Finish all Profile components
+* Fix any bugs in the database
+* Finish rating system
+* Check for any ES-Lint errors
+* Finish Results page after search
 
 ## Mockups
 
