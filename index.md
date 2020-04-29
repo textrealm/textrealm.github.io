@@ -12,6 +12,8 @@ Buying and selling textbooks, made easy.
 
 ## Table of Contents
 * [Overview](#overview)
+* [User Guide)(#user-guide)
+* [Developer Guide](#developer-guide)
 * [Project Development History](#project-development-history)
   * [Milestone 1](#milestone-1)
   * [Milestone 2](#milestone-2)
