@@ -2,7 +2,7 @@ Buying and selling textbooks, made easy.
 
 ## The site:
 
-[http://textrealm.methttps://soratsky.github.io/)eorapp.com/#/](http://textrealm.meteorapp.com/#/)
+[http://textrealm.meteorapp.com/#/](http://textrealm.meteorapp.com/#/)
 
 ## Team: 
 * [Chan Ung Jeong](https://chan-jeong98.github.io/)
