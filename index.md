@@ -163,6 +163,20 @@ The registered user must fill in the fields for a textbook that they plan on sel
 * Check for any ES-Lint errors
 * Finish Results page after search
 
+## User Feedback
+
+### We allowed five UH Manoa students to test out our application. This was their feedback:
+- Clearer instructions for adding/editing user reviews and textbook entries (need Image URL, specific image sizes)
+- Background/color scheme too plain
+- Would like to see other user's profiles/provide a link to a seller's profile
+  - Make seller information more prominent when viewing an entry
+- Creating a textbook entry to sell: Provide a field to specify what majors the book falls under
+  - "Search by major should be an option."
+  - "Maybe a dropdown? It'll be easier."
+- Check user emails upon signing up to make sure that they are registered 'hawaii.edu' accounts.
+
+## Mockups
+
 ## Search Page
 
 The user can search for a desired book for purchase. The search will be based on title, author, or ISBN-10.
