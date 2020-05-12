@@ -161,9 +161,34 @@ Fourth, run the system with:
 
 If it all goes well, the application will appear at [http://localhost:3000](http://localhost:3000).
 
+### Initialization
+
+The config directory is intended to hold settings files. The repository contains one file: config/settings.development.json.
+
+This file contains default definitions for Users, Textbook Entries, and Ratings/Reviews and the relationships between them.
+
+The settings.development.json file contains a field called “loadAssetsFile”. It is set to false, but if you change it to true, 
+then the data in the file app/private/data.json will also be loaded. The code to do this illustrates how to initialize a 
+system when the initial data exceeds the size limitations for the settings file.
+
+### Quality Assurance
+
+#### ESLint
+
+TextRealm includes a [.eslintrc](https://github.com/textrealm/text-realm/blob/master/app/.eslintrc) file to define the coding 
+style adhered to in this application. You can invoke ESLint from the command line as follows:
+
+```meteor npm run lint```
+
+ESLint should run without generating any errors.
+
+It’s significantly easier to do development with ESLint integrated directly into your IDE (such as IntelliJ).
+
 ## Project Development History:
 
 ## Mockups
+
+The following items are some of the mockups of pages that we had planned for this application.
 
 ### Search Page
 
