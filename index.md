@@ -15,6 +15,7 @@ Buying and selling textbooks, made easy.
 * [User Guide](#user-guide)
 * [Developer Guide](#developer-guide)
 * [Project Development History](#project-development-history)
+  * [Mockups](#mockups)
   * [Milestone 1](#milestone-1)
   * [Milestone 2](#milestone-2)
   * [Milestone 3](#milestone-3)
