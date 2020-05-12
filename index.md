@@ -5,10 +5,7 @@ Buying and selling textbooks, made easy.
 [http://textrealm.meteorapp.com/#/](http://textrealm.meteorapp.com/#/)
 
 ## Team: 
-* [Chan Ung Jeong](https://chan-jeong98.github.io/)
-* [Sang Nguyen](https://sanngu68.github.io/)
-* [Sola Takahashi](https://soratsky.github.io/)
-* [Sophia Elize Cruz](https://sophiaelizecruz.github.io/)
+# [Sophia Elize Cruz](https://sophiaelizecruz.github.io/)
 
 ## Table of Contents
 * [Overview](#overview)
