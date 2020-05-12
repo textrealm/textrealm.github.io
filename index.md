@@ -162,34 +162,8 @@ Fourth, run the system with:
 If it all goes well, the application will appear at [http://localhost:3000](http://localhost:3000).
 
 ## Project Development History:
-### [Milestone 1:](https://github.com/textrealm/text-realm/projects/2)
-- Copied application template
-- Created TextRealm logo
-- Implemented About/FAQ page
-- Designed database
-- Implemented Landing Page
-- Deployed to Galaxy
-- Finished Mockups
 
-### [Milestone 2:](https://github.com/textrealm/text-realm/projects/3)
-
-- Start and Design the Admin Page
-- Implement the Add/Sell a Textbook page, and the page to edit entries
-- Start rating system
-- Start User profile page
-- Finish the Registration/Login page
-- 'Not found' page, and loading components
-
-### [Milestone 3:](https://github.com/textrealm/text-realm/projects/4)
-
-* Finish search
-* Finish all Profile components
-* Fix any bugs in the database
-* Finish rating system
-* Check for any ES-Lint errors
-* Finish Results page after search
-
-## Mockups
+### Mockups
 
 ### Search Page
 
@@ -222,6 +196,32 @@ The user enters the required information to upload a textbook that they plan to 
 
 <img class="ui medium floated rounded image" src="/mockups/AddTextbook.png" length="800" width="1000">
 
+### [Milestone 1:](https://github.com/textrealm/text-realm/projects/2)
+- Copied application template
+- Created TextRealm logo
+- Implemented About/FAQ page
+- Designed database
+- Implemented Landing Page
+- Deployed to Galaxy
+- Finished Mockups
+
+### [Milestone 2:](https://github.com/textrealm/text-realm/projects/3)
+
+- Start and Design the Admin Page
+- Implement the Add/Sell a Textbook page, and the page to edit entries
+- Start rating system
+- Start User profile page
+- Finish the Registration/Login page
+- 'Not found' page, and loading components
+
+### [Milestone 3:](https://github.com/textrealm/text-realm/projects/4)
+
+* Finish search
+* Finish all Profile components
+* Fix any bugs in the database
+* Finish rating system
+* Check for any ES-Lint errors
+* Finish Results page after search
 
 ## Next Steps and User Feedback
 
