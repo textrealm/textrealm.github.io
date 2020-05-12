@@ -51,7 +51,7 @@ We plan to make this application using:
 
 ## User Guide
 
-This section provides a walkthrough of the TextRealm user interface and its capabilities so far.
+This section provides a walkthrough of the TextRealm user interface and its capabilities.
 
 ### Landing Page
 
@@ -61,32 +61,87 @@ The landing page is presented to users when they visit the top-level URL to the 
 
 ### Register Page
 
-The user can register an account if they are not already registered by clicking the 'Sign Up' option in the Nav Bar.
+The user can register an account if they are not already registered by clicking the 'Sign Up' option in the Nav Bar. From 
+there, they must fill out the required fields to create an account. Only students in the UH system may be able to register.
 
-<img class="ui medium floated rounded image" src="/progress-shots/RegisterPage.png" length="800" width="1000">
+<img class="ui medium floated rounded image" src="/progress-shots/RegisterFinal.png" length="800" width="1000">
 
 ### Login Page
 
 Returning users can login to the system by clicking on the 'Login' option in the Nav Bar, and inputting their email and 
 password.
 
-<img class="ui medium floated rounded image" src="/progress-shots/Login.png" length="800" width="1000">
+<img class="ui medium floated rounded image" src="/progress-shots/LoginFinal.png" length="800" width="1000">
 
-### Edit Profile
-
-Once you are logged in, you can edit/update your personal.
-
-<img class="ui medium floated rounded image" src="/progress-shots/EditProfile.png" length="800" width="1000">
+When the user is logged in, they will land on the page that will allow them to sell their textbooks.
 
 ### Sell A Textbook
 
 Once you are logged in, if you are selling a textbook, you must click on the 'Sell A Textbook' option in the Nav Bar, and you 
 must fill in the fields for a textbook that you plan on selling. 
 
-<img class="ui medium floated rounded image" src="/progress-shots/SellATextbook.png" length="800" width="1000">
+<img class="ui medium floated rounded image" src="/progress-shots/SellATextbookFinal.png" length="800" width="1000">
+
+Upon adding an entry, the entry will appear on your profile.
+
+<img class="ui medium floated rounded image" src="/progress-shots/WithBook.png" length="800" width="1000">
+
+### Edit Entry 
+
+You can edit the information on the textbooks that you are selling.
+
+<img class="ui medium floated rounded image" src="/progress-shots/EditEntryFinal.png" length="800" width="1000">
+
+### Edit Profile
+
+Once you are logged in, you can edit/update your information on your profile.
+
+<img class="ui medium floated rounded image" src="/progress-shots/EditProfileFinal.png" length="800" width="1000">
+
+### Search 
+
+To search for the textbook that you want to buy, clicking on the 'Search For Books' option in the menu bar will take you to 
+the search page which lists available books. You can search by author, ISBN, and by title, and the search will display books 
+whose information is relevant to your search. The following screenshots show how you can narrow down your search by searching 
+for the author.
+
+The search page:
+
+<img class="ui medium floated rounded image" src="/progress-shots/Search.png" length="800" width="1000">
+
+Searching by author:
+
+<img class="ui medium floated rounded image" src="/progress-shots/SearchAuthor.png" length="800" width="1000">
+
+If there are no entries pertaining to your search, then you will be greeted by a 'No results.'
+
+<img class="ui medium floated rounded image" src="/progress-shots/NoResults.png" length="800" width="1000">
+
+### User Reviews
+
+When you purchase a book from a user on the site, you can comment about and rate your experience! By going to the 'Add A User 
+Review' option in the menu bar, you can rate your experience with buying from a user by scoring it out of 5 stars and 
+providing comments about your experience.
+
+<img class="ui medium floated rounded image" src="/progress-shots/AddComment.png" length="800" width="1000">
+
+You can view all of the user reviews in the 'User Reviews' option in the menu bar, which displays reviews from users about 
+purchases done with other users on the site.
+
+<img class="ui medium floated rounded image" src="/progress-shots/UserReviews.png" length="800" width="1000">
+
+### Admin Role
+
+Users with the admin role will have access to all of the textbooks in the database. If there is an entry that is deemed to be 
+inappropriate, the admin can delete the entry. Admins can email the owners of these inappropriate entries and ban them for any 
+inappropriate conduct on the site.
+
+<img class="ui medium floated rounded image" src="/progress-shots/AdminPageFinal.png" length="800" width="1000">
+
 
 ## Developer Guide
-This section provides information of interest to Meteor developers wishing to use this code base as a basis for their own development tasks.
+This section provides information of interest to Meteor developers wishing to use this code base as a basis for their own 
+development tasks.
 
 ### Installation
 
