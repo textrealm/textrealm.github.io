@@ -196,6 +196,8 @@ The user enters the required information to upload a textbook that they plan to 
 
 <img class="ui medium floated rounded image" src="/mockups/AddTextbook.png" length="800" width="1000">
 
+## Project Milestones:
+
 ### [Milestone 1:](https://github.com/textrealm/text-realm/projects/2)
 - Copied application template
 - Created TextRealm logo
