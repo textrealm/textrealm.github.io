@@ -1,10 +1,10 @@
 Buying and selling textbooks, made easy.
 
-## The site:
+## The Site:
 
 [http://textrealm.meteorapp.com/#/](http://textrealm.meteorapp.com/#/)
 
-## Team: 
+## The Team: 
 * [Chan Ung Jeong](https://chan-jeong98.github.io/)
 * [Sang Nguyen](https://sanngu68.github.io/)
 * [Sola Takahashi](https://soratsky.github.io/)
