@@ -163,6 +163,11 @@ The registered user must fill in the fields for a textbook that they plan on sel
 * Check for any ES-Lint errors
 * Finish Results page after search
 
+## Search Page
+
+The user can search for a desired book for purchase. The search will be based on title, author, or ISBN-10.
+
+<img class="ui medium floated rounded image" src="/mockups/LandingPage.png" length="800" width="1000">
 
 ## Landing Page 
 
