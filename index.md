@@ -188,10 +188,3 @@ If the buyer/seller does not have account, they can register for the site here.
 The user enters the required information to upload a textbook that they plan to sell. 
 
 <img class="ui medium floated rounded image" src="/mockups/AddTextbook.png" length="800" width="1000">
-
-
-## Profile Page
-
-Includes the user's name, rating, a profile picture, their email, as well as the textbooks that they are currently selling.
-
-<img class="ui medium floated rounded image" src="/mockups/ProfilePage.jpeg" length="800" width="1000">
