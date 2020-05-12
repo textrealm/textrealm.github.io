@@ -28,9 +28,7 @@ TextRealm is a web application where UH students can easily buy and sell their t
 develop a working application, in which the student can login to their account, or sign up for an account, and fill out the 
 necessary information for their profile. The user can buy textbooks by searching for textbooks based on their ISBN number, 
 title, or author, and contacting the seller, or they can set up offers for textbooks that they plan to sell by supplying the 
-ISBN number which will be used to match up buyers and sellers as well as other information about the textbook. If the user 
-wants to save textbooks so that they can reference it later, we plan to implement a wishlist/favorites page where the user can 
-click an icon to save it and click the wishlist page in the navigation bar to access it later.
+ISBN number which will be used to match up buyers and sellers as well as other information about the textbook. 
 
 We plan to implement the following items:
 
@@ -38,11 +36,11 @@ We plan to implement the following items:
 * A rating system that allows buyers and sellers to rate each other based on their experience
 * A profile page that lists the textbooks that the user is selling
   * Includes user's name, a description, a way for other users to contact them, and profile picture
-* Users will be able to apply tags and notes to their entries, such as the class it can be used for, details on the condition, 
-and any other information related to the textbook
+* Users will be able to apply details and notes to their entries, such as the class it can be used for, details on the 
+condition, and any other information related to the textbook
 * A search page that allows the user to search for the textbook based on the either the author, ISBN number, or title
-* A wishlist/favorites page that allows users to save textbooks and access them at a later time
-* Admin role, which will allow them to ban users for inappropriate behavior
+* Admin role, which will allow them to delete entries and ban users for inappropriate entries
+* A page listing user reviews on their buying experience with another user
 
 We plan to make this application using:
 
@@ -238,3 +236,12 @@ The user enters the required information to upload a textbook that they plan to 
   - "Search by major should be an option."
   - "Maybe a dropdown? It'll be easier."
 - Check user emails upon signing up to make sure that they are registered 'hawaii.edu' accounts.
+
+### Our Next Steps
+If we were to add to our project, we would:
+* Add a wishlist option: if the user wants to save textbooks so that they can reference it later, we plan to implement a 
+wishlist/favorites page where the user can click an icon to save it and click the wishlist page in the navigation bar to 
+access it later.
+* Set up a function/component where a default email can be sent to the seller about a buyer who is interested in the book that 
+they are selling.
+* Improve upon the aesthetics and accessibility, such as back arrows and other aids for users.
