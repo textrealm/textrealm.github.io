@@ -163,9 +163,6 @@ The registered user must fill in the fields for a textbook that they plan on sel
 * Check for any ES-Lint errors
 * Finish Results page after search
 
-## Mockups
-
-As of now, these are our current mockups.
 
 ## Landing Page 
 
