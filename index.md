@@ -20,6 +20,7 @@ Buying and selling textbooks, made easy.
   * [Milestone 2](#milestone-2)
   * [Milestone 3](#milestone-3)
 * [Mockups](#mockups)
+* [Next Steps and User Feedback](#next-steps-and-user-feedback)
 
 ## Overview 
 
@@ -164,7 +165,7 @@ If it all goes well, the application will appear at [http://localhost:3000](http
 
 ## Project Development History:
 
-### Mockups
+## Mockups
 
 ### Search Page
 
