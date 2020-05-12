@@ -171,11 +171,6 @@ If it all goes well, the application will appear at [http://localhost:3000](http
 - Deployed to Galaxy
 - Finished Mockups
 
-### Landing Page
-
-You can find our landing page [here](http://textrealm.meteorapp.com/#/).
-<img class="ui medium floated rounded image" src="/progress-shots/LandingPageFinal.png" length="800" width="1000">
-
 ### [Milestone 2:](https://github.com/textrealm/text-realm/projects/3)
 
 - Start and Design the Admin Page
@@ -184,30 +179,6 @@ You can find our landing page [here](http://textrealm.meteorapp.com/#/).
 - Start User profile page
 - Finish the Registration/Login page
 - 'Not found' page, and loading components
-
-### Register Page
-
-The user can register an account.
-
-<img class="ui medium floated rounded image" src="/progress-shots/RegisterPage.png" length="800" width="1000">
-
-### Login Page
-
-Returning users can login to the system by inputting their email and password.
-
-<img class="ui medium floated rounded image" src="/progress-shots/Login.png" length="800" width="1000">
-
-### Edit Profile
-
-The user can edit their profile when they are registered.
-
-<img class="ui medium floated rounded image" src="/progress-shots/EditProfile.png" length="800" width="1000">
-
-### Sell A Textbook
-
-The registered user must fill in the fields for a textbook that they plan on selling.
-
-<img class="ui medium floated rounded image" src="/progress-shots/SellATextbook.png" length="800" width="1000">
 
 ### [Milestone 3:](https://github.com/textrealm/text-realm/projects/4)
 
@@ -218,7 +189,41 @@ The registered user must fill in the fields for a textbook that they plan on sel
 * Check for any ES-Lint errors
 * Finish Results page after search
 
-## User Feedback
+## Mockups
+
+### Search Page
+
+The user can search for a desired book for purchase. The search will be based on title, author, or ISBN-10.
+
+<img class="ui medium floated rounded image" src="/mockups/LandingPage.png" length="800" width="1000">
+
+### Landing Page 
+
+The page that the user sees when they open up the application.
+
+<img class="ui medium floated rounded image" src="/mockups/LandingPage.png" length="800" width="1000">
+
+### Login Page
+
+The user can login to the site via this page.
+
+<img class="ui medium floated rounded image" src="/mockups/LoginPage.png" length="800" width="1000">
+
+### Register Page
+
+If the buyer/seller does not have account, they can register for the site here.
+
+<img class="ui medium floated rounded image" src="/mockups/RegisterPage.png" length="800" width="1000">
+
+
+### Selling a Textbook
+
+The user enters the required information to upload a textbook that they plan to sell. 
+
+<img class="ui medium floated rounded image" src="/mockups/AddTextbook.png" length="800" width="1000">
+
+
+## Next Steps and User Feedback
 
 ### We allowed five UH Manoa students to test out our application. This was their feedback:
 - Clearer instructions for adding/editing user reviews and textbook entries (need Image URL, specific image sizes)
@@ -229,36 +234,3 @@ The registered user must fill in the fields for a textbook that they plan on sel
   - "Search by major should be an option."
   - "Maybe a dropdown? It'll be easier."
 - Check user emails upon signing up to make sure that they are registered 'hawaii.edu' accounts.
-
-## Mockups
-
-## Search Page
-
-The user can search for a desired book for purchase. The search will be based on title, author, or ISBN-10.
-
-<img class="ui medium floated rounded image" src="/mockups/LandingPage.png" length="800" width="1000">
-
-## Landing Page 
-
-The page that the user sees when they open up the application.
-
-<img class="ui medium floated rounded image" src="/mockups/LandingPage.png" length="800" width="1000">
-
-## Login Page
-
-The user can login to the site via this page.
-
-<img class="ui medium floated rounded image" src="/mockups/LoginPage.png" length="800" width="1000">
-
-## Register Page
-
-If the buyer/seller does not have account, they can register for the site here.
-
-<img class="ui medium floated rounded image" src="/mockups/RegisterPage.png" length="800" width="1000">
-
-
-## Selling a Textbook
-
-The user enters the required information to upload a textbook that they plan to sell. 
-
-<img class="ui medium floated rounded image" src="/mockups/AddTextbook.png" length="800" width="1000">
