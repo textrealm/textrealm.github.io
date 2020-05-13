@@ -136,7 +136,7 @@ Users with the admin role will have access to all of the textbooks in the databa
 inappropriate, the admin can delete the entry. Admins can email the owners of these inappropriate entries and ban them for any 
 inappropriate conduct on the site.
 
-<img class="ui medium floated rounded image" src="/progress-shots/AdminPageFinal.png" length="800" width="1000">
+<img class="ui medium floated rounded image" src="/progress-shots/TextRealmAdminFinal.png" length="800" width="1000">
 
 
 ## Developer Guide
