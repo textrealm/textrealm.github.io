@@ -112,6 +112,10 @@ For example, searching by author:
 
 <img class="ui medium floated rounded image" src="/progress-shots/SearchAuthor.png" length="800" width="1000">
 
+Or, you can search by ISBN-10:
+
+<img class="ui medium floated rounded image" src="/progress-shots/NoResults.png" length="800" width="1000">
+
 If there are no entries pertaining to your search, then you will be greeted by a 'No results.'
 
 <img class="ui medium floated rounded image" src="/progress-shots/NoResults.png" length="800" width="1000">
@@ -119,7 +123,7 @@ If there are no entries pertaining to your search, then you will be greeted by a
 ### Profile of a Book
 
 When you see the book that you need, you can click on the 'View More' option, which will pull up all of the information about 
-the book.
+the book. If this is the book that you are looking for, you can email the seller as their email is listed with the entry.
 
 <img class="ui medium floated rounded image" src="/progress-shots/BookProfile.png" length="800" width="1000">
 
