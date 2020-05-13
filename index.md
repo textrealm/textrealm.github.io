@@ -2,7 +2,7 @@ Buying and selling textbooks, made easy.
 
 ## The Site:
 
-[http://textrealm.meteorapp.com/#/](http://textrealm.meteorapp.com/#/)
+You can find our deployed site [here](http://textrealm.meteorapp.com/#/).
 
 ## The Team: 
 * [Chan Ung Jeong](https://chan-jeong98.github.io/)
@@ -19,7 +19,6 @@ Buying and selling textbooks, made easy.
   * [Milestone 1](#milestone-1)
   * [Milestone 2](#milestone-2)
   * [Milestone 3](#milestone-3)
-* [Mockups](#mockups)
 * [Next Steps and User Feedback](#next-steps-and-user-feedback)
 
 ## Overview 
@@ -82,7 +81,7 @@ must fill in the fields for a textbook that you plan on selling.
 
 <img class="ui medium floated rounded image" src="/progress-shots/SellATextbookFinal.png" length="800" width="1000">
 
-Upon adding an entry, the entry will appear on your profile.
+Upon adding an entry, the entry will appear on your profile. You have the ability to either edit an entry, or delete an entry.
 
 <img class="ui medium floated rounded image" src="/progress-shots/WithBook.png" length="800" width="1000">
 
@@ -109,7 +108,7 @@ The search page:
 
 <img class="ui medium floated rounded image" src="/progress-shots/Search.png" length="800" width="1000">
 
-Searching by author:
+For example, searching by author:
 
 <img class="ui medium floated rounded image" src="/progress-shots/SearchAuthor.png" length="800" width="1000">
 
@@ -234,21 +233,21 @@ The user enters the required information to upload a textbook that they plan to 
 
 ### [Milestone 2:](https://github.com/textrealm/text-realm/projects/3)
 
-- Start and Design the Admin Page
-- Implement the Add/Sell a Textbook page, and the page to edit entries
-- Start rating system
-- Start User profile page
-- Finish the Registration/Login page
+- Started and Designed the Admin Page
+- Implemented the Add/Sell a Textbook page, and the page to edit entries
+- Started rating system
+- Started User profile page
+- Finished the Registration/Login page
 - 'Not found' page, and loading components
 
 ### [Milestone 3:](https://github.com/textrealm/text-realm/projects/4)
 
-* Finish search
-* Finish all Profile components
-* Fix any bugs in the database
-* Finish rating system
-* Check for any ES-Lint errors
-* Finish Results page after search
+* Finished search
+* Finished all Profile components
+* Fixed any bugs in the database
+* Finished rating system
+* Checked for any ES-Lint errors
+* Finished Results page after search
 
 ## Next Steps and User Feedback
 
@@ -262,11 +261,12 @@ The user enters the required information to upload a textbook that they plan to 
   - "Maybe a dropdown? It'll be easier."
 - Check user emails upon signing up to make sure that they are registered 'hawaii.edu' accounts.
 - Include character limits
+- Fix price/any number fields by setting a limit
 
 ### Community Feedback
 
 We want to hear from you! We are interested in your experience using TextRealm! You can contact us directly by direct 
-messaging any of our members via GitHub or through [here](#the-team).
+messaging any of our members via GitHub or through one of us [here](#the-team).
 
 ### Our Next Steps
 If we were to add to our project, we would:
@@ -275,4 +275,9 @@ wishlist/favorites page where the user can click an icon to save it and click th
 access it later.
 * Set up a function/component where a default email can be sent to the seller about a buyer who is interested in the book that 
 they are selling.
+* Indicate that a book was sold.
+* Allow users to visit other users' profiles.
+* Give admins the power to delete reviews and send out default warning emails for those that post inappropriate content.
+* Filter out swear words, slurs, inappropriate phrases by implementing a function that warns and prevents the user from 
+posting a book or a review if they are using inappropriate words
 * Improve upon the aesthetics and accessibility, such as back arrows and other aids for users.
