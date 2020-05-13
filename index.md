@@ -116,6 +116,13 @@ If there are no entries pertaining to your search, then you will be greeted by a
 
 <img class="ui medium floated rounded image" src="/progress-shots/NoResults.png" length="800" width="1000">
 
+### Profile of a Book
+
+When you see the book that you need, you can click on the 'View More' option, which will pull up all of the information about 
+the book.
+
+<img class="ui medium floated rounded image" src="/progress-shots/BookProfile.png" length="800" width="1000">
+
 ### User Reviews
 
 When you purchase a book from a user on the site, you can comment about and rate your experience! By going to the 'Add A User 
