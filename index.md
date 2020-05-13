@@ -266,7 +266,7 @@ The user enters the required information to upload a textbook that they plan to 
 ### Community Feedback
 
 We want to hear from you! We are interested in your experience using TextRealm! You can contact us directly by direct 
-messaging any of our members via GitHub or through [here](#the-team)
+messaging any of our members via GitHub or through [here](#the-team).
 
 ### Our Next Steps
 If we were to add to our project, we would:
