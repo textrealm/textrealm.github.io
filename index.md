@@ -261,6 +261,12 @@ The user enters the required information to upload a textbook that they plan to 
   - "Search by major should be an option."
   - "Maybe a dropdown? It'll be easier."
 - Check user emails upon signing up to make sure that they are registered 'hawaii.edu' accounts.
+- Include character limits
+
+### Community Feedback
+
+We want to hear from you! We are interested in your experience using TextRealm! You can contact us directly by direct 
+messaging any of our members via GitHub or through email.
 
 ### Our Next Steps
 If we were to add to our project, we would:
