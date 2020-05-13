@@ -114,7 +114,11 @@ For example, searching by author:
 
 Or, you can search by ISBN-10:
 
-<img class="ui medium floated rounded image" src="/progress-shots/NoResults.png" length="800" width="1000">
+<img class="ui medium floated rounded image" src="/progress-shots/ISBNSearch.png" length="800" width="1000">
+
+Or, you can search by author:
+
+<img class="ui medium floated rounded image" src="/progress-shots/AuthorSearch.png" length="800" width="1000">
 
 If there are no entries pertaining to your search, then you will be greeted by a 'No results.'
 
