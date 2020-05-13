@@ -102,7 +102,7 @@ Once you are logged in, you can edit/update your information on your profile.
 To search for the textbook that you want to buy, clicking on the 'Search For Books' option in the menu bar will take you to 
 the search page which lists available books. You can search by author, ISBN, and by title, and the search will display books 
 whose information is relevant to your search. The following screenshots show how you can narrow down your search by searching 
-for the author.
+for the author, ISBN, or title of the book.
 
 The search page:
 
@@ -116,7 +116,7 @@ Or, you can search by ISBN-10:
 
 <img class="ui medium floated rounded image" src="/progress-shots/ISBNSearch.png" length="800" width="1000">
 
-Or, you can search by author:
+Or, you can search by title:
 
 <img class="ui medium floated rounded image" src="/progress-shots/AuthorSearch.png" length="800" width="1000">
 
