@@ -80,7 +80,9 @@ Once you are logged in, you will be redirected to the 'Sell A Textbook' page whe
 you are selling a textbook, you must click on the 'Sell A Textbook' option in the Nav Bar, and you must fill in the fields for 
 a textbook that you plan on selling. 
 
-<img class="ui medium floated rounded image" src="/progress-shots/SellATextbookFinal.png" length="800" width="1000">
+<img class="ui medium floated rounded image" src="/progress-shots/SellATextbookF.png" length="800" width="1000">
+
+<img class="ui medium floated rounded image" src="/progress-shots/Added.png" length="800" width="1000">
 
 Upon adding an entry, the entry will appear on your profile. You have the ability to either edit an entry, or delete an entry.
 
