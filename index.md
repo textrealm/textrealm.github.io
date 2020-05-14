@@ -3,6 +3,7 @@ Buying and selling textbooks, made easy.
 ## The Site:
 
 * Update! The site may no longer be active. We apologize for the inconvenience. *
+
 You can find our deployed site [here](http://textrealm.meteorapp.com/#/).
 
 ## The Team: 
