@@ -292,7 +292,7 @@ The user enters the required information to upload a textbook that they plan to 
 - Include character limits
 - Fix price/any number fields by setting a limit
 
-Thank you again to Jewel R., Michael S., Alex N., Jathryn R., Osiris S., Charlie D., and Arleigh R. for your feedback on the 
+Thank you again to Jewel R., Michael S., Alex N., Jathryn R., Osiris S., Charlie D., and Arleigh R. for their feedback on the 
 application!
 
 ### Community Feedback
