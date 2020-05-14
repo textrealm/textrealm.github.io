@@ -119,7 +119,7 @@ For example, searching by author:
 
 Or, you can search by ISBN-10:
 
-<img class="ui medium floated rounded image" src="/progress-shots/SearchISBN.png" length="800" width="1000">
+<img class="ui medium floated rounded image" src="/progress-shots/SearchISBNFinal.png" length="800" width="1000">
 
 Or, you can search by title:
 
