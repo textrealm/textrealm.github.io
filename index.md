@@ -238,6 +238,7 @@ The user enters the required information to upload a textbook that they plan to 
 ## Project Milestones:
 
 ### [Milestone 1:](https://github.com/textrealm/text-realm/projects/2)
+
 - Copied application template
 - Created TextRealm logo
 - Implemented About/FAQ page
@@ -245,6 +246,9 @@ The user enters the required information to upload a textbook that they plan to 
 - Implemented Landing Page
 - Deployed to Galaxy
 - Finished Mockups
+
+<img class="ui medium floated rounded image" src="/progress-shots/M1.png" length="800" width="1000">
+
 
 ### [Milestone 2:](https://github.com/textrealm/text-realm/projects/3)
 
@@ -255,6 +259,9 @@ The user enters the required information to upload a textbook that they plan to 
 - Finished the Registration/Login page
 - 'Not found' page, and loading components
 
+<img class="ui medium floated rounded image" src="/progress-shots/M2.png" length="800" width="1000">
+
+
 ### [Milestone 3:](https://github.com/textrealm/text-realm/projects/4)
 
 * Finished search
@@ -263,6 +270,8 @@ The user enters the required information to upload a textbook that they plan to 
 * Finished rating system
 * Checked for any ES-Lint errors
 * Finished Results page after search
+
+<img class="ui medium floated rounded image" src="/progress-shots/M3.png" length="800" width="1000">
 
 ## Next Steps and User Feedback
 
