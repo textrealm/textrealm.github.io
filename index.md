@@ -2,6 +2,7 @@ Buying and selling textbooks, made easy.
 
 ## The Site:
 
+* Update! The site may no longer be active. We apologize for the inconvenience. *
 You can find our deployed site [here](http://textrealm.meteorapp.com/#/).
 
 ## The Team: 
@@ -278,7 +279,7 @@ The user enters the required information to upload a textbook that they plan to 
 
 ## Next Steps and User Feedback
 
-### We allowed five UH Manoa students to test out our application. This was their feedback:
+### We allowed five UH Manoa students to test out our application. This is a summary of their feedback:
 - Clearer instructions for adding/editing user reviews and textbook entries (need Image URL, specific image sizes)
 - Background/color scheme too plain
 - Would like to see other user's profiles/provide a link to a seller's profile
@@ -289,6 +290,9 @@ The user enters the required information to upload a textbook that they plan to 
 - Check user emails upon signing up to make sure that they are registered 'hawaii.edu' accounts.
 - Include character limits
 - Fix price/any number fields by setting a limit
+
+Thank you again to Jewel R., Michael S., Alex N., Jathryn R., Osiris S., Charlie D., and Arleigh R. for your feedback on the 
+application!
 
 ### Community Feedback
 
