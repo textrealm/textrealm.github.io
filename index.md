@@ -76,8 +76,9 @@ When the user is logged in, they will land on the page that will allow them to s
 
 ### Sell A Textbook
 
-Once you are logged in, if you are selling a textbook, you must click on the 'Sell A Textbook' option in the Nav Bar, and you 
-must fill in the fields for a textbook that you plan on selling. 
+Once you are logged in, you will be redirected to the 'Sell A Textbook' page where you can start selling your textbooks! If 
+you are selling a textbook, you must click on the 'Sell A Textbook' option in the Nav Bar, and you must fill in the fields for 
+a textbook that you plan on selling. 
 
 <img class="ui medium floated rounded image" src="/progress-shots/SellATextbookFinal.png" length="800" width="1000">
 
@@ -100,9 +101,9 @@ Once you are logged in, you can edit/update your information on your profile.
 ### Search 
 
 To search for the textbook that you want to buy, clicking on the 'Search For Books' option in the menu bar will take you to 
-the search page which lists available books. You can search by author, ISBN, and by title, and the search will display books 
-whose information is relevant to your search. The following screenshots show how you can narrow down your search by searching 
-for the author, ISBN, or title of the book.
+the search page which lists available books. You can search by author, ISBN-10, and by title, and the search will display 
+books whose information is relevant to your search. The following screenshots show how you can narrow down your search by 
+searching for the author, ISBN-10, or title of the book.
 
 The search page:
 
