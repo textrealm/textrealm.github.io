@@ -280,7 +280,7 @@ The user enters the required information to upload a textbook that they plan to 
 
 ## Next Steps and User Feedback
 
-### We allowed five UH Manoa students to test out our application. This is a summary of their feedback:
+### We allowed a few UH Manoa/UH System students to test out our application. This is a summary of their feedback:
 - Clearer instructions for adding/editing user reviews and textbook entries (need Image URL, specific image sizes)
 - Background/color scheme too plain
 - Would like to see other user's profiles/provide a link to a seller's profile
